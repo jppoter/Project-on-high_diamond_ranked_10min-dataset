@@ -56,7 +56,7 @@ redTotalJungleMinionsKilled - total amount of jungle minions killed by red team
 redGoldDiff - the difference in gold between red and blue team (redTotalGold - blueTotalGold)
 redExperienceDif - the difference in experience between red and blue team (redTotalExperience - blueTotalExperience)
 redCSPerMin - the average number of minions killed in one minute by red players
-redGoldPerMin - the average amount of gold collected in one minute by red players
+redGoldPerMin - the average amount of gold collected in one minute by red players <br>
 <br>
 
 ### Key statistics
