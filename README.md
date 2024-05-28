@@ -11,8 +11,7 @@ Description and preliminary statistical analysis of high_diamond_ranked_10min da
 ### About the dataset
 The dataset contains the various data about the first 10 minutes of matches of players classified as "Diamond" in the multiplayer online battle arena genre game "League of Legends". It can be used to predict the features, that let players have a better performance during matches. 
 
-This detailed dataset, that contains almost 10 000 observations, can be found on kaggle: https://www.kaggle.com/datasets/bobbyscience/league-of-legends-diamond-ranked-games-10-min. 
-<br>
+This detailed dataset, that contains almost 10 000 observations, can be found on kaggle: https://www.kaggle.com/datasets/bobbyscience/league-of-legends-diamond-ranked-games-10-min. <br>
 
 The **main idea of the game** is for one team to take over the opponent's base. To achieve this, teammates must first destroy the opposing team's towers. The game includes various enrichments, such as dragons, heralds, and minions.  Players can collect gold and heighten their level (by gaining experience) by killing minions or opponents. They might use this gold to purchase items that provide improvements. Each match is consisted of two teams: red and blue, five players each, who must work together using strategy, skill, and teamwork to capture victory.
 <br>
