@@ -17,7 +17,7 @@ The **main idea of the game** is for one team to take over the opponent's base. 
 <br>
 
 ### Attribute information
-gameId - the unique ID of a player
+gameId - the unique ID of a player <br>
 blueWins - information, wheather blue team won ('0' - no, '1' - yes)
 
 blueWardsPlaced - the number of wards that has been placed by blue team
