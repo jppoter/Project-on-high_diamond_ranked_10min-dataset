@@ -18,45 +18,44 @@ The **main idea of the game** is for one team to take over the opponent's base. 
 
 ### Attribute information
 gameId - the unique ID of a player <br>
-blueWins - information, wheather blue team won ('0' - no, '1' - yes)
-
-blueWardsPlaced - the number of wards that has been placed by blue team
-blueWardsDestroyed - the number of wards that has been destroyed by blue team
-blueFirstBlood - information, wheather someone from blue team killed as first in match ('0' - no, '1' - yes)
-blueKills - total number of red players, which were killed by blue ones
-blueDeaths - total number of blue players, which were killed
-blueAssists - total number of assists of kills that blue teammates had
-blueEliteMonsters - the number of elite monsters killed by blue team (blueDragons + blueHeralds)
-blueDragons - the number of dragons killed by blue team
-blueHeralds - the number of heralds killed by blue team
-blueTowersDestroyed - the number of towers destroyed by blue team
-blueTotalGold - total amount of gold won by the blue team
-blueAvgLevel - the average blue players level
-blueTotalExperience - total amount of experience gained by blue team
-blueTotalMinionsKilled - total amount of minions killed by blue team
-blueTotalJungleMinionsKilled - total amount of jungle minions killed by blue team
-blueGoldDiff - the difference in gold between blue and red team (blueTotalGold - redTotalGold)
-blueExperienceDiff - the difference in experience between blue and red team (blueTotalExperience - redTotalExperience)
-blueCSPerMin - the average number of minions killed in one minute by blue players
-blueGoldPerMin - the average amount of gold collected in one minute by blue players
-redWardsPlaced - the number of wards that has been placed by red team
-redWardsDestroyed - the number of wards that has been destroyed by red team
-redFirstBlood - information, wheather someone from red team killed as first in match ('0' - no, '1' - yes)
-redKills - total number of blue players, which were killed by red ones
-redDeaths - total number of red players, which were killed
-redAssists - total number of assists of kills that red teammates had
-redEliteMonsters - the number of elite monsters killed by red team (redDragons + redHeralds)
-redDragons - the number of dragons killed by red team
-redHeralds - the number of heralds killed by red team
-redTowersDestroyed - the number of towers destroyed by red team
-redTotalGold - total amount of gold won by the red team
-redAvgLevel - the average red players level
-redTotalExperience - total amount of experience gained by red team
-redTotalMinionsKilled - total amount of minions killed by the red team
-redTotalJungleMinionsKilled - total amount of jungle minions killed by red team
-redGoldDiff - the difference in gold between red and blue team (redTotalGold - blueTotalGold)
-redExperienceDif - the difference in experience between red and blue team (redTotalExperience - blueTotalExperience)
-redCSPerMin - the average number of minions killed in one minute by red players
+blueWins - information, wheather blue team won ('0' - no, '1' - yes) <br>
+blueWardsPlaced - the number of wards that has been placed by blue team <br>
+blueWardsDestroyed - the number of wards that has been destroyed by blue team <br>
+blueFirstBlood - information, wheather someone from blue team killed as first in match ('0' - no, '1' - yes) <br>
+blueKills - total number of red players, which were killed by blue ones <br>
+blueDeaths - total number of blue players, which were killed <br>
+blueAssists - total number of assists of kills that blue teammates had <br>
+blueEliteMonsters - the number of elite monsters killed by blue team (blueDragons + blueHeralds) <br>
+blueDragons - the number of dragons killed by blue team <br>
+blueHeralds - the number of heralds killed by blue team <br>
+blueTowersDestroyed - the number of towers destroyed by blue team <br>
+blueTotalGold - total amount of gold won by the blue team <br>
+blueAvgLevel - the average blue players level <br>
+blueTotalExperience - total amount of experience gained by blue team <br>
+blueTotalMinionsKilled - total amount of minions killed by blue team <br>
+blueTotalJungleMinionsKilled - total amount of jungle minions killed by blue team <br>
+blueGoldDiff - the difference in gold between blue and red team (blueTotalGold - redTotalGold) <br>
+blueExperienceDiff - the difference in experience between blue and red team (blueTotalExperience - redTotalExperience) <br>
+blueCSPerMin - the average number of minions killed in one minute by blue players <br>
+blueGoldPerMin - the average amount of gold collected in one minute by blue players <br>
+redWardsPlaced - the number of wards that has been placed by red team <br>
+redWardsDestroyed - the number of wards that has been destroyed by red team <br>
+redFirstBlood - information, wheather someone from red team killed as first in match ('0' - no, '1' - yes) <br>
+redKills - total number of blue players, which were killed by red ones <br>
+redDeaths - total number of red players, which were killed <br>
+redAssists - total number of assists of kills that red teammates had <br>
+redEliteMonsters - the number of elite monsters killed by red team (redDragons + redHeralds) <br>
+redDragons - the number of dragons killed by red team <br>
+redHeralds - the number of heralds killed by red team <br>
+redTowersDestroyed - the number of towers destroyed by red team <br>
+redTotalGold - total amount of gold won by the red team <br>
+redAvgLevel - the average red players level <br>
+redTotalExperience - total amount of experience gained by red team <br>
+redTotalMinionsKilled - total amount of minions killed by the red team <br>
+redTotalJungleMinionsKilled - total amount of jungle minions killed by red team <br>
+redGoldDiff - the difference in gold between red and blue team (redTotalGold - blueTotalGold) <br>
+redExperienceDif - the difference in experience between red and blue team (redTotalExperience - blueTotalExperience) <br>
+redCSPerMin - the average number of minions killed in one minute by red players <br>
 redGoldPerMin - the average amount of gold collected in one minute by red players <br>
 <br>
 
