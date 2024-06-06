@@ -60,3 +60,7 @@ The **main idea of the game** is for one team to take over the opponent's base. 
 <br>
 
 ### Key statistics
+
+'''py
+print("Hello")
+'''
